@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Gordon Ramsay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tribute to Gordon Ramsay</h1>
+    </header>
+    <main>
+        <section class="introduction">
+            <img src="gordon.jpg" alt="[Name]'s Picture">
+            <p>Gordon ramsay is someone I greatly admire. Their dedication, Their expertise, Their Composure have always made me go forward and keep trying harder and harder!</p>
+        </section>
+        <section class="qualities">
+            <h2>Admirable Qualities</h2>
+            <p><strong>Dedication:</strong> Gordon ramsay  has always been really dedicated to his arts, he has been through several rough phases yet, he stayed dedicated and worked hard to reach where he is right now.</p>
+            <p><strong>Expertise:</strong> Gordon ramsay has shown time an time again that he deserves all the praise and awards he has gotten through his expertise in the art of culinary.
+            <p><strong>Composure:</strong> No matter what the situation was, ramsay always stays composed, yes he may rage at others, but rest assured, he always gets the job done.</p>
+            <p><strong>Achievements:</strong> Gordon ramsay has alot of achievements ranging from his 8 michelin stars to his successful restaurants all over the world.</p>
+        </section>
+        <section class="gallery">
+            <h2>Gallery</h2>
+            <img src="gordona nna.jpeg" alt="Image 1">
+            <img src="food.jpeg" alt="Image 2">
+        </section>
+    </main>
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
